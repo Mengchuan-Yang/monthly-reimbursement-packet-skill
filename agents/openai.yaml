@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monthly Reimbursement Packet"
+  short_description: "Build monthly reimbursement PPT and final PDF"
+  default_prompt: "Use $monthly-reimbursement-packet to clean my natural-language expense records, fill this month's reimbursement sheet, and produce the proof PPT plus final merged printable PDF."
