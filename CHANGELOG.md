@@ -2,6 +2,16 @@
 
 All notable changes to this skill are documented in this file.
 
+## [1.0.1] - 2026-05-23
+
+### Changed
+
+1. Expanded `README.md` into a full operating guide.
+2. Added explicit trigger conditions and one-line trigger command.
+3. Added fixed monthly input template for repeatable usage.
+4. Clarified mandatory blocking validation gate behavior.
+5. Clarified execution flow, layout rules, and output/report contract.
+
 ## [1.0.0] - 2026-05-23
 
 ### Added
@@ -21,4 +31,3 @@ All notable changes to this skill are documented in this file.
    1. A4 landscape Excel first page.
    2. A4 portrait proof pages.
    3. Merged printable PDF output.
-
